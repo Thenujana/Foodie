@@ -45,5 +45,5 @@ const Navbar = () => {
     </nav>
   );
 };
-
+//chnages in the nav bar 
 export default Navbar;
