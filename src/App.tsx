@@ -1,12 +1,15 @@
 import React from 'react';
-import Menu from './components/Menu';
+
 import './App.css';
+import Landing from './components/Landing';
+
 const App: React.FC = () => {
   return (
     <div>
-      <Menu />
+    <Landing/>
     </div>
   );
 };
+
 
 export default App;

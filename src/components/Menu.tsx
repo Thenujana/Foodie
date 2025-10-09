@@ -39,7 +39,7 @@ const Menu: React.FC = () => {
   return (
 
     
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-slate-50">
+    <div id="menu" className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-slate-50">
          <Navbar />
       {/* Hero Header Section */}
       <div className="relative bg-gradient-to-r from-emerald-600 to-teal-600 text-white py-16 px-8 mb-12 shadow-xl">
